@@ -1,0 +1,5 @@
+C:\Codeworks\LearnC#\StoreLibrary\StoreLibrary\bin\Debug\StoreLibrary.dll
+C:\Codeworks\LearnC#\StoreLibrary\StoreLibrary\bin\Debug\StoreLibrary.pdb
+C:\Codeworks\LearnC#\StoreLibrary\StoreLibrary\obj\Debug\StoreLibrary.csprojResolveAssemblyReference.cache
+C:\Codeworks\LearnC#\StoreLibrary\StoreLibrary\obj\Debug\StoreLibrary.dll
+C:\Codeworks\LearnC#\StoreLibrary\StoreLibrary\obj\Debug\StoreLibrary.pdb
