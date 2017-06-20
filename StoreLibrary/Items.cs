@@ -8,11 +8,13 @@ namespace StoreLibrary
 {
     public class Item
     {
-        public string Name;
-        public string Description;
-        public decimal Price;
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public int Price { get; set; }
 
-        public Item(string name, string description, decimal price)
+        public Item() { }
+
+        public Item(string name, string description, int price)
         {
             Name = name;
             Description = description;

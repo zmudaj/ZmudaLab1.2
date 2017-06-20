@@ -6,3 +6,11 @@ C:\Codeworks\LearnC#\StoreLibrary\Lab1Console\bin\Debug\StoreLibrary.pdb
 C:\Codeworks\LearnC#\StoreLibrary\Lab1Console\obj\Debug\Lab1Console.csprojResolveAssemblyReference.cache
 C:\Codeworks\LearnC#\StoreLibrary\Lab1Console\obj\Debug\Lab1Console.exe
 C:\Codeworks\LearnC#\StoreLibrary\Lab1Console\obj\Debug\Lab1Console.pdb
+C:\Codeworks\LearnC#\StoreLibrary\ZmudaLab1.2\Lab1Console\bin\Debug\Lab1Console.exe.config
+C:\Codeworks\LearnC#\StoreLibrary\ZmudaLab1.2\Lab1Console\obj\Debug\Lab1Console.exe
+C:\Codeworks\LearnC#\StoreLibrary\ZmudaLab1.2\Lab1Console\obj\Debug\Lab1Console.pdb
+C:\Codeworks\LearnC#\StoreLibrary\ZmudaLab1.2\Lab1Console\bin\Debug\Lab1Console.exe
+C:\Codeworks\LearnC#\StoreLibrary\ZmudaLab1.2\Lab1Console\bin\Debug\Lab1Console.pdb
+C:\Codeworks\LearnC#\StoreLibrary\ZmudaLab1.2\Lab1Console\bin\Debug\StoreLibrary.dll
+C:\Codeworks\LearnC#\StoreLibrary\ZmudaLab1.2\Lab1Console\bin\Debug\StoreLibrary.pdb
+C:\Codeworks\LearnC#\StoreLibrary\ZmudaLab1.2\Lab1Console\obj\Debug\Lab1Console.csprojResolveAssemblyReference.cache
